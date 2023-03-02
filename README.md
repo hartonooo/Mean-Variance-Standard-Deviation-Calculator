@@ -10,6 +10,11 @@ https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-
 3. The function should convert the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min, and sum along both axes and for the flattened matrix.
 
 4. Put them together in mean_var_std.py file
+    <details>
+    <summary>mean_var_std.py</summary>
+    <img src="https://github.com/mas-tono/Mean-Variance-Standard-Deviation-Calculator/blob/main/image/mean-var-std.jpg">
+    </details>
+
 
 5. Call via main.py
     
