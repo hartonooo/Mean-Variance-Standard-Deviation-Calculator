@@ -1,7 +1,6 @@
 # Mean-Variance-Standard-Deviation-Calculator
-certification python project from freecodecamp
+certification python project from <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator" target="_blank" rel="noopener noreferrer">freecodecamp</a>
 
-https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 
 1. Using Python to calculate mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
